@@ -1,0 +1,8 @@
+Subject : Hello {{recepient}},
+
+hi {{recepient}}
+
+This is a reminder that your appointment is scheduled for {{date}} at {{time}}.
+
+Best Regards,
+Your Clinic.
